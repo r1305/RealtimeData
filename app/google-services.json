@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "39500406459",
+    "firebase_url": "https://realtimedata-4f227.firebaseio.com",
+    "project_id": "realtimedata-4f227",
+    "storage_bucket": "realtimedata-4f227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39500406459:android:d0cdaedb93e6cbf2",
+        "android_client_info": {
+          "package_name": "com.solution.tecno.realtimedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39500406459-mt5u7pf928srpk55p2hb3bcpclh3l6ho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solution.tecno.realtimedata",
+            "certificate_hash": "5ebafca7392cb2601eb0bcec12385cb26e6eaac6"
+          }
+        },
+        {
+          "client_id": "39500406459-l30h9ova9pvrpcuimeuh61udlfglnm9p.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "39500406459-l30h9ova9pvrpcuimeuh61udlfglnm9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL_9v3yK9ZmRuB_ULOiNycsOSCGcK3AZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39500406459-l30h9ova9pvrpcuimeuh61udlfglnm9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
