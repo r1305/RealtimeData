@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity{
                 progressBar.setVisibility(View.VISIBLE);
                 String val=txt_new_val.getText().toString();
                 addNewValue(val);
+                txt_new_val.setText("");
             }
         });
 
